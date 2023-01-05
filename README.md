@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...There are more 700 coding languages out there! 
 -->
+
+
+# 📊 GitHub Stats:
+<p align="left">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulyh010&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulyh010&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulyh010&theme=tokyonight&border_radius=10" align="center" />
+</p>
