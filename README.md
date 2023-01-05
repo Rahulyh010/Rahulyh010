@@ -15,15 +15,15 @@ Hello folks! my name is Rahul and I am an aspiring Full Stack Developer, passion
 
 👯 Looking to collaborate on Interesting projects using springboot
 
-👨‍💻 Checkout my <a href="https://mehul-kanjariya.github.io/" target="_blank">Portfolio</a>  
+👨‍💻 Checkout my <a href="" target="_blank">Portfolio</a>  
 
-🖥  Checkout my <a href="https://drive.google.com/file/d/1Jl0rrOTxr3cPVZteR_TIWVdVXadnv8HS/view?usp=share_link" target="_blank">Resume</a>
+🖥  Checkout my <a href="" target="_blank">Resume</a>
 
 💬 Ask me about coding because that's what fascinates me
 
-📫 How to reach me mehulktik@gmail.com
+📫 How to reach me rahulyh63@gmail.com
 
-⚡ Fun fact I think I am creative
+⚡ Fun fact There are around 700 programming languages 
 
 👯 Love to connect with people and Know their stories
 
