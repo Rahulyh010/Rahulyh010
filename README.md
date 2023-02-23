@@ -15,9 +15,9 @@ Hello folks! my name is Rahul and I am an aspiring Full Stack Developer, passion
 
 👯 Looking to collaborate on Interesting projects using springboot
 
-👨‍💻 Checkout my <a href="" target="_blank">Portfolio</a>  
+👨‍💻 Checkout my <a href="https://rahulyh010.github.io/" target="_blank">Portfolio</a>  
 
-🖥  Checkout my <a href="" target="_blank">Resume</a>
+🖥  Checkout my <a href="https://drive.google.com/file/d/1W2DmkFvCEetMLkmDoZ4dsxni9dAa_nqw/view?usp=share_link" target="_blank">Resume</a>
 
 💬 Ask me about coding because that's what fascinates me
 
